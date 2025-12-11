@@ -1,0 +1,5 @@
+{
+  "name": "Stock Investment Decider",
+  "description": "A decision support tool for stock market investments based on PE ratio, RSI, and market sentiment, featuring customizable thresholds and PDF export.",
+  "requestFramePermissions": []
+}
